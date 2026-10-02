@@ -15,4 +15,4 @@ The original CSV file is not included in this repository because of its large fi
 
 To run the project, place the dataset in this folder with the filename:
 
-`marketing_ab.csv`
+`marketing_AB.csv`
