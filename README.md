@@ -119,7 +119,7 @@ SQL queries are used to analyze:
 SQL queries are available in:
 
 ```text
-sql/ab_testing_queries.sql
+sql analysis.sql
 ```
 
 ## Power BI Dashboard
@@ -139,7 +139,7 @@ Dashboard includes:
 
 ### Dashboard Preview
 
-![Power BI Dashboard](dashboard/dashboard_preview.png)
+![Power BI Dashboard](https://github.com/Muskan12q/AB-Testing-Automated-Pipeline/blob/main/dashboard/AB_dashboard_preview.png)
 
 ## Automation
 
@@ -162,8 +162,8 @@ AB-Testing-Automated-Pipeline/
 ├── data/
 │   └── README.md
 │
-├── sql/
-│   └── ab_testing_queries.sql
+├─ab_testing_queries.sql
+│ 
 │
 ├── output/
 │   └── README.md
@@ -199,7 +199,7 @@ statsmodels
 Place the dataset in:
 
 ```text
-data/marketing_ab.csv
+marketing_AB.csv
 ```
 
 Then run:
